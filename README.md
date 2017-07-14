@@ -12,6 +12,16 @@ cmake ..
 make
 ```
 
+### Attention
+
+* C++ Standard Library, Choose options as following: 
+
+    * libstdc++ (GNU C++ standard library)
+    * libc++ (LLVM C++ standard library with C++ 11 support)
+
+* Compiler and compiler.version. For mac, please choose apple-clang and 7.3 version for most Conan packages
+
+
 ### Reference
 
 * https://www.conan.io/
