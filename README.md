@@ -24,5 +24,6 @@ make
 
 ### Reference
 
-* https://www.conan.io/
+* Conan Document: http://conanio.readthedocs.io/
+* Conan with Clion: http://conanio.readthedocs.io/en/latest/integrations/clion.html
 
