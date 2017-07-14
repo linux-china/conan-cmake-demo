@@ -13,7 +13,7 @@ int main(){
     cout<< "MD5= " << md5string << "\n";
 
     string s = "correct@email.com", s2="bademail";
-    boost::regex expr{"\\b[a-zA-Z0-9._%-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,4}\\b"};
+    boost::regex expr{R"(\b[a-zA-Z0-9._%-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}\b)"};
     cout << boolalpha << boost::regex_match(s, expr) << '\n';
     cout << boolalpha << boost::regex_match(s2, expr) << '\n';
 }
