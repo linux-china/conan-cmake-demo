@@ -1,4 +1,4 @@
-C++ Application with CMake and conan
+C++ Application with CMake and Conan
 ============
 
 ### How to use 
