@@ -1,6 +1,6 @@
 [requires]
 Boost/1.60.0@lasote/stable
-Poco/1.7.5@lasote/stable
+Poco/1.7.8p3@pocoproject/stable
 OpenSSL/1.0.2j@lasote/stable
 
 
