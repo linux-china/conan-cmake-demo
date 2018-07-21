@@ -79,3 +79,8 @@ fabric.properties
 *.out
 *.app
 
+### Conan templates
+conanbuildinfo.cmake
+conanbuildinfo.txt
+conaninfo.txt
+
