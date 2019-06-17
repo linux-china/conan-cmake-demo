@@ -25,7 +25,7 @@ make
 
 # conan tips
 
-* add remote repo, then add "fmt/4.1.0@bincrafters/stable" in conanfile.txt
+* add remote repo, then add "fmt/5.3.0@bincrafters/stable" in conanfile.txt
 ```
 conan remote add bincrafters https://api.bintray.com/conan/bincrafters/public-conan
 ```
