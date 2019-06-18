@@ -32,5 +32,6 @@ make
 # Reference
 
 * Conan Document: http://conanio.readthedocs.io/
-* Conan with Clion: https://docs.conan.io/en/latest/integrations/clion.html
+* Conan CLion Plugin: https://blog.jetbrains.com/clion/2019/05/getting-started-with-the-conan-clion-plugin/
+* Conan integrated with CMake: https://conan-docs.readthedocs.io/en/feature-cmake-toolchain-file/integrations/cmake.html
 
