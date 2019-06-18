@@ -24,10 +24,11 @@ make
 * Compiler and compiler.version. For mac, please choose apple-clang and 7.3 version for most Conan packages
 
 
-# conan repo
+# Conan Repositories
 
-* https://bintray.com/conan/conan-center : conan remote add conan-center https://api.bintray.com/conan/conan/conan-center 
-* https://bintray.com/pocoproject/conan  : conan remote add pocoproject https://api.bintray.com/conan/pocoproject/conan 
+* https://bintray.com/conan/conan-center 
+* https://bintray.com/pocoproject/conan 
+* https://bintray.com/bincrafters/public-conan
 
 # Reference
 
