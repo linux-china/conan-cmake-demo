@@ -3,6 +3,7 @@ C++ Application with CMake and Conan
 
 # How to use 
 
+* Install Conan plugin in Clion: https://plugins.jetbrains.com/plugin/11956-conan
 * create "CMAKE_BINARY_DIR" directory, such as "_build", for Clion, default is cmake-build-debug
 * cd  "CMAKE_BINARY_DIR" and execute following code
 
