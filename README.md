@@ -1,5 +1,5 @@
 C++ Application with CMake and Conan
-============
+=====================================
 
 # How to use 
 
@@ -23,13 +23,6 @@ make
 
 * Compiler and compiler.version. For mac, please choose apple-clang and 7.3 version for most Conan packages
 
-
-# conan tips
-
-* add remote repo, then add "fmt/5.3.0@bincrafters/stable" in conanfile.txt
-```
-conan remote add bincrafters https://api.bintray.com/conan/bincrafters/public-conan
-```
 
 # conan repo
 
