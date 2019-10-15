@@ -35,4 +35,5 @@ make
 * Conan Document: http://conanio.readthedocs.io/
 * Conan CLion Plugin: https://blog.jetbrains.com/clion/2019/05/getting-started-with-the-conan-clion-plugin/
 * Conan integrated with CMake: https://conan-docs.readthedocs.io/en/feature-cmake-toolchain-file/integrations/cmake.html
+* C++ Package Management With Conan: Introduction: https://medium.com/@ilyas.hamadouche/c-package-management-with-conan-introduction-8c7bd928c009
 
