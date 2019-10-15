@@ -1,6 +1,6 @@
 [requires]
 fmt/6.0.0@_/_
-gtest/1.8.1@bincrafters/stable
+gtest/1.8.1@_/_
 
 [options]
 gtest:shared=False
